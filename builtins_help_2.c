@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 
 void help_env(void);
 void help_setenv(void);
